@@ -1,5 +1,11 @@
 # Notes
 
+the require method in node.js is similar to import in Python and the other one in java that I forgot.
+
+./ means look in the current directory./ means look in the current directory
+
+Got the video pop up in the bottom left so I can see it and still have room to type.
+
 ctrl+c cancels the node proccess. Or it just running the file.
 
 # Winows and global objects

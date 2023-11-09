@@ -13,6 +13,6 @@ https://youtu.be/OIBIXYLJjsI?si=E5XlN7Pxcdx3Jm_K
 Node.js Crash Course Tutorial #2 - Node.js Basics
 [x] node basics
 [x] the global object
-[ ] modules & require
+[x] modules & require
 [ ] node & the file system (creating, reading, deleting files etc)
 [ ] streams & buffers
